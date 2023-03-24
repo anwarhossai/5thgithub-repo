@@ -1,0 +1,32 @@
+body {
+    font-family: 'Courgette', cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+    margin-bottom: 60px;
+
+}
+
+.orrange-color {
+    color: orange;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.click-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
