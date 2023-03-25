@@ -1,5 +1,7 @@
 body {
     font-family: 'Courgette', cursive;
+    margin: auto;
+    padding: 60px;
 }
 
 h1 {
@@ -27,6 +29,12 @@ section {
 .click-button {
     text-decoration: none;
     background-image: linear-gradient(tomato, orange);
+    color: whitesmoke;
+    font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+footer {
+    text-align: center;
 }
